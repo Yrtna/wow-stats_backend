@@ -35,4 +35,5 @@ Desktop.ini
 
 
 # Sensitive info
-app.config
+NHibernateDbSetup/app.config
+Stats_Repository/app.config
